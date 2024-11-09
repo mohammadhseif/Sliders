@@ -1,0 +1,13 @@
+{
+  "originalFirstFrame": 0,
+  "originalLastFrame": 100,
+  "editedFirstFrame": 0,
+  "editedLastFrame": 100,
+  "smoothnessLevel": 50,
+  "speedLevel": 0,
+  "inPlace": false,
+  "mirror": false,
+  "aPose": false,
+  "tPose": false,
+  "loop": true
+}
